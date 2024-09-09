@@ -1,4 +1,3 @@
-// Файл: Palindrome.java
 public class Palindrome {
     
     // Метод для переворачивания строки
